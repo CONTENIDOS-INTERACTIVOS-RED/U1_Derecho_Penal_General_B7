@@ -17,7 +17,7 @@
 
         p(data-aos="fade-left") En esta unidad se estudiará el poder punitivo del Estado y su desarrollo histórico, examinando las principales corrientes de pensamiento que han influido en la configuración del Derecho Penal. A partir del estudio de sistemas normativos antiguos, como el Código de Hammurabi, la Ley Mosaica y el Código de Manú, será posible comprender los primeros intentos de establecer reglas para el control del delito y el mantenimiento del orden social. Asimismo, se examinará la evolución del Derecho Penal en el mundo occidental, con especial énfasis en el Derecho Penal Romano Germánico y en las diversas escuelas que han marcado su desarrollo, como la Escuela Positiva, la Escuela Neoclásica, la Escuela Funcionalista y la Escuela Finalista
     
-    .bg-full-width.bg-color-2
+    .bg-full-width.bg-color-6
       .px-4.px-md-5.py-4
         .row.align-items-center
           .col-lg-3
