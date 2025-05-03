@@ -20,7 +20,7 @@
     .bg-full-width.bg-color-6
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-3
+          .col-lg-3.mb-3.mb-lg-0
             img(src="@/assets/curso/intro/3.svg", data-aos="zoom-in").mx-auto
           .col-lg-9
             p.mb-0.text-white El propósito de esta unidad es proporcionar una base conceptual sólida que permita identificar los principios fundamentales del Derecho Penal y su evolución como ciencia jurídica. Al finalizar el estudio, se espera que se logre un análisis crítico de la potestad punitiva del Estado y sus implicaciones en la formulación de normas penales. Asimismo, la indagación de las diferentes corrientes doctrinales permitirá contrastar sus enfoques y valorar su impacto en la interpretación y aplicación del Derecho Penal en la actualidad.

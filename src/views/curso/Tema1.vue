@@ -125,7 +125,7 @@
     .bg-full-width.bg-color-8.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/12.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 Otra justificación se basa en la retribución y el restablecimiento del orden jurídico. La teoría retributiva sostiene que el castigo es un acto de justicia, una respuesta proporcional a la infracción de la norma, que reafirma la vigencia del orden social y el principio de responsabilidad individual, independientemente de sus efectos disuasorios o preventivos.
@@ -181,10 +181,10 @@
         p.mb-4 El poder punitivo del Estado no es absoluto. Su ejercicio debe estar limitado por principios jurídicos que aseguren el respeto a los derechos fundamentales y eviten sanciones arbitrarias. En los sistemas democráticos, el Derecho Penal debe equilibrar su función represiva con garantías que aseguren un proceso justo, proporcional y respetuoso de la dignidad humana. Los principios limitadores del poder punitivo son: 
 
         .row.align-items-start
-          .col-lg-4.order-2
+          .col-lg-4.order-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/15.png", alt="").mb-4.mb-lg-0
-          .col-lg-8.mb-3.mb-lg-0.order-1
+          .col-lg-8.order-lg-1
         
             AcordionA(tipo="b")
               .div(titulo="Legalidad")
