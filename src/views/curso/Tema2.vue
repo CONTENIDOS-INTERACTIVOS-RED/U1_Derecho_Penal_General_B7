@@ -331,7 +331,7 @@
                   h5.mb-1 Contexto histórico del Derecho Penal en Colombia
                   p Para conocer más sobre el contexto histórico del Derecho Penal en Colombia, se recomienda consultar el siguiente recurso: 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/123150 " target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://www.redalyc.org/pdf/1271/127113486008.pdf" target="_blank")
                     span Ir al sitio
                     i.fas.fa-arrow-right
     
